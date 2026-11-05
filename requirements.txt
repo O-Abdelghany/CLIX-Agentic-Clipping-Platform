@@ -3,3 +3,4 @@ langchain-
 openai-whisper
 grandalf
 # use the command 'winget install ffmpeg' to install whisper's video handler tool
+streamlit
