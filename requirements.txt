@@ -1,6 +1,7 @@
 langgraph==1.2.20
-langchain-
-openai-whisper
+langchain-groq
+groq
+whisperx
 grandalf
 # use the command 'winget install ffmpeg' to install whisper's video handler tool
 streamlit
